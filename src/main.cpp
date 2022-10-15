@@ -3,7 +3,6 @@
 //
 
 #include "../h/tcb.hpp"
-#include "../h/workers.hpp"
 #include "../h/print.hpp"
 #include "../test/printing.hpp"
 #include "../h/riscv.hpp"

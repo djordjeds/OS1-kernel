@@ -1,0 +1,43 @@
+GAS LISTING /tmp/ccStMcVt.s 			page 1
+
+
+   1              		.file	"print.cpp"
+   2              		.option pic
+   3              		.option norelax
+   4              		.text
+   5              	.Ltext0:
+   6              	.Letext0:
+   7              		.file 1 "src/../h/../lib/hw.h"
+   8              		.file 2 "src/../h/../h/syscall_c.h"
+GAS LISTING /tmp/ccStMcVt.s 			page 2
+
+
+DEFINED SYMBOLS
+                            *ABS*:0000000000000000 print.cpp
+     /tmp/ccStMcVt.s:152    .debug_abbrev:0000000000000000 .Ldebug_abbrev0
+     /tmp/ccStMcVt.s:340    .debug_str:00000000000000e0 .LASF19
+     /tmp/ccStMcVt.s:318    .debug_str:0000000000000037 .LASF20
+     /tmp/ccStMcVt.s:322    .debug_str:0000000000000055 .LASF21
+     /tmp/ccStMcVt.s:308    .debug_line:0000000000000000 .Ldebug_line0
+     /tmp/ccStMcVt.s:352    .debug_str:00000000000001fc .LASF0
+     /tmp/ccStMcVt.s:310    .debug_str:0000000000000000 .LASF1
+     /tmp/ccStMcVt.s:334    .debug_str:00000000000000b7 .LASF2
+     /tmp/ccStMcVt.s:328    .debug_str:000000000000009f .LASF4
+     /tmp/ccStMcVt.s:324    .debug_str:000000000000007a .LASF3
+     /tmp/ccStMcVt.s:312    .debug_str:0000000000000013 .LASF5
+     /tmp/ccStMcVt.s:326    .debug_str:000000000000008c .LASF6
+     /tmp/ccStMcVt.s:342    .debug_str:00000000000001a4 .LASF7
+     /tmp/ccStMcVt.s:350    .debug_str:00000000000001ec .LASF8
+     /tmp/ccStMcVt.s:314    .debug_str:000000000000001a .LASF9
+     /tmp/ccStMcVt.s:316    .debug_str:0000000000000028 .LASF10
+     /tmp/ccStMcVt.s:348    .debug_str:00000000000001dd .LASF11
+     /tmp/ccStMcVt.s:320    .debug_str:0000000000000045 .LASF12
+     /tmp/ccStMcVt.s:346    .debug_str:00000000000001cd .LASF13
+     /tmp/ccStMcVt.s:332    .debug_str:00000000000000ab .LASF14
+     /tmp/ccStMcVt.s:344    .debug_str:00000000000001b7 .LASF15
+     /tmp/ccStMcVt.s:338    .debug_str:00000000000000ca .LASF16
+     /tmp/ccStMcVt.s:330    .debug_str:00000000000000a6 .LASF17
+     /tmp/ccStMcVt.s:336    .debug_str:00000000000000c5 .LASF18
+     /tmp/ccStMcVt.s:10     .debug_info:0000000000000000 .Ldebug_info0
+
+NO UNDEFINED SYMBOLS
